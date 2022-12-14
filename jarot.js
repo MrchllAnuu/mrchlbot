@@ -5955,7 +5955,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 								"rows": [
 									{
 										"title": "Thanks To ❤️",
-										"description": "𝘑𝘢𝘯𝘨𝘢𝘯 𝘓𝘶𝘱𝘢 𝘚𝘶𝘴𝘤𝘳𝘪𝘣𝘦 𝘊𝘩𝘢𝘯𝘦𝘭 𝘑𝘢𝘳𝘰𝘵 𝘰𝘧𝘤",
+										"description": "𝙅𝙖𝙣𝙜𝙖𝙣 𝙇𝙪𝙥𝙖 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 𝙈𝙧𝙘𝙝𝙡𝙡",
 										"rowId": `${prefix}tqto`
 									}
 								]
@@ -5985,7 +5985,7 @@ let fot = `𝙽𝚘𝚝𝚎 𝙹𝚒𝚔𝚊 𝙼𝚎𝚗𝚎𝚖𝚞𝚔𝚊�
 `
 const listMessage = {
 footer: fot,
-text: 'Made By Angga Ofc',
+text: '𝙈𝙖𝙙𝙚 𝘽𝙮 𝕸𝖗𝖈𝖍𝖑𝖑',
 title: con,
 buttonText: `CLICK HERE ⎙`, 
 sections
