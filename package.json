@@ -1,11 +1,11 @@
 {
-  "name": "Oscar-MD",
+  "name": "Mrchll",
   "version": "5.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node index.js"
+    "start": "npm i -g pm2 && pm2 index.js && pm2 save && pm2 logs"
   },
   "keywords": [
     "termux",
