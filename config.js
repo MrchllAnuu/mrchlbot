@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 
 //documents variants
@@ -15,8 +15,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['6281381685954'] //ganti nomer lu
-global.ownername = "Mrchllhost" //ganti nama lu
-global.developer = "Mrchllhost" //nama lu
+global.ownername = "𝙈𝙧𝙘𝙝𝙡𝙡𝙝𝙤𝙨𝙩" //ganti nama lu
+global.developer = "𝕸𝖗𝖈𝖍𝖑𝖑𝖍𝖔𝖘𝖙" //nama lu
 global.ytname = "YT: MRCHLL" //ur yt chanel name
 global.socialm = "https://www.instagram.com/hijklmarchel" //taroh sosialmedia lu kalo ga punya biarin aja
 global.sgc = "https://chat.whatsapp.com/" //ganti group lu
@@ -27,8 +27,8 @@ global.owner = ['6281381685954'] //ur number
 global.ownernomer = "6281381685954" //ur number
 global.ownertag = '6281381685954' //ur tag number
 global.premium = ['6281381685954'] //ur premium number
-global.botname = 'Mrchllbot' //ur bot name
-global.ownername = "Mrchllhost"
+global.botname = '𝙈𝙧𝙘𝙝𝙡𝙡𝙝𝙤𝙨𝙩' //ur bot name
+global.ownername = "𝕸𝖗𝖈𝖍𝖑𝖑𝖍𝖔𝖘𝖙"
 global.linkz = "https://www.mrchllanuu.biz.id" //your theme url which will be displayed on whatsapp
 global.dana = "6281381685954"
 global.pulsa = "6281381685954"
@@ -37,8 +37,8 @@ global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
 global.botscript = 'https://wa.me/+6281381685954' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "noname" //ur sticker watermark author
-global.wm = "Mrchllhost" //ur watermark
+global.author = "𝙈𝙧𝙘𝙝𝙡𝙡𝙝𝙤𝙨𝙩" //ur sticker watermark author
+global.wm = "𝕸𝖗𝖈𝖍𝖑𝖑𝖍𝖔𝖘𝖙" //ur watermark
 
 // Other
 global.sessionName = 'Session'
@@ -61,10 +61,10 @@ global.limitawal = {
     premium: "Infinity",
     free: 25
 }
-global.thum = fs.readFileSync("./Media/theme/jarot.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./Media/theme/jarot.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./Media/theme/jarot.jpg") //ur error pic
-global.thumb = fs.readFileSync("./Media/theme/jarot.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./Media/theme/20221215_112428.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./Media/theme/20221215_112428.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./Media/theme/20221215_112428.jpg") //ur error pic
+global.thumb = fs.readFileSync("./Media/theme/20221215_112428.jpg") //ur thumb pic
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
