@@ -5772,7 +5772,7 @@ throw `Thanks to
 ┃⫹⫺ 𝚇𝚎𝚘𝚗
 ┃⫹⫺ 𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚏𝚌
 ┃⫹⫺ 𝙾𝚜𝚌𝚊𝚛 𝚘𝚏𝚌
-┗═┅〔 *Made By Jarot* 〕┅═`
+┗═┅〔 *Made By Mrchll* 〕┅═`
 break
 case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let ownernya = ownernomer + '@s.whatsapp.net'
@@ -5836,7 +5836,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             break
             case 'command': {
 	const sections = [{
-								"title": "𝙾𝚜𝚌𝚊𝚛-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎",
+								"title": "𝙼𝚛𝚌𝚑𝚕𝚕𝚑𝚘𝚜𝚝 𝙼𝚞𝚕𝚝𝚒 𝙳𝚎𝚟𝚒𝚌𝚎",
 								"rows": [
 									{
 										"title": "𝘔𝘦𝘯𝘶 𝘖𝘵𝘩𝘦𝘳",
@@ -5846,7 +5846,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 								]
 							},
 							{
-								"title": "𝙻𝚒𝚜𝚝 𝙾𝚜𝚌𝚊𝚛-𝙼𝚍️",
+								"title": "𝙻𝚒𝚜𝚝 𝙼𝚛𝚌𝚑𝚕𝚕𝚑𝚘𝚜𝚝",
 								"rows": [
 									{
 										"title": "𝘚𝘦𝘮𝘶𝘢 𝘗𝘦𝘳𝘪𝘯𝘵𝘢𝘩",
